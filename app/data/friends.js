@@ -21,14 +21,14 @@ var friendsArray = [
         "photo":"https://vignette.wikia.nocookie.net/meangirls/images/4/42/018.jpg/revision/latest/scale-to-width-down/2000?cb=20190429020224",
         "scores":[
             5,
+            3,
             1,
-            4,
-            4,
-            5,
             1,
-            2,
             5,
-            4,
+            3,
+            1,
+            1,
+            5,
             1
         ]
     },
@@ -36,15 +36,15 @@ var friendsArray = [
         "name":"Karen Smith",
         "photo":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-mean-girls-amanda-seyfried.jpg",
         "scores":[
-            5,
+            3,
+            3,
             1,
             4,
-            4,
             5,
-            1,
             2,
+            3,
             5,
-            4,
+            5,
             1
         ]
     },
@@ -52,15 +52,15 @@ var friendsArray = [
         "name":"Gretchen Wieners ",
         "photo":"https://vignette.wikia.nocookie.net/meangirls/images/0/0e/Gretchen_Wienners_3.jpg/revision/latest?cb=20160126053125",
         "scores":[
+            4,
+            4,
+            4,
+            4,
+            3,
+            3,
             5,
+            4,
             1,
-            4,
-            4,
-            5,
-            1,
-            2,
-            5,
-            4,
             1
         ]
     },
@@ -68,48 +68,48 @@ var friendsArray = [
         "name":"Cady Heron ",
         "photo":"https://i.pinimg.com/originals/51/7e/99/517e99a912d6bc56383c6486c547c6d7.jpg",
         "scores":[
+            4,
+            5,
+            4,
             5,
             1,
-            4,
-            4,
+            5,
             5,
             1,
-            2,
-            5,
-            4,
-            1
+            1,
+            5
         ]
     },
     {
         "name":"Janis Ian ",
         "photo":"https://i.pinimg.com/originals/31/5e/68/315e68c6f914f53e3a05bfdcfda2781b.jpg",
         "scores":[
-            5,
-            1,
+            3,
+            3,
             4,
             4,
-            5,
-            1,
+            3,
+            3,
             2,
-            5,
-            4,
-            1
+            1,
+            1,
+            4
         ]
     },
     {
         "name":"Damian Leigh",
         "photo":"https://vignette.wikia.nocookie.net/meangirls/images/8/89/Damien.jpg/revision/latest?cb=20130403104017",
         "scores":[
-            5,
             1,
-            4,
-            4,
-            5,
             1,
+            3,
+            4,
             2,
-            5,
+            1,
             4,
-            1
+            2,
+            1,
+            4
         ]
     },
     {
@@ -118,14 +118,14 @@ var friendsArray = [
         "scores":[
             5,
             1,
-            4,
-            4,
+            1,
+            5,
             5,
             1,
             2,
-            5,
             4,
-            1
+            5,
+            4
         ]
     },
     {
@@ -133,15 +133,15 @@ var friendsArray = [
         "photo":"https://authenticteachingcharacters.files.wordpress.com/2015/11/tina-fey-mean-girls.jpeg",
         "scores":[
             5,
-            1,
-            4,
-            4,
-            5,
-            1,
             2,
-            5,
+            3,
             4,
-            1
+            1,
+            1,
+            3,
+            2,
+            1,
+            5
         ]
     },
     {
@@ -160,5 +160,7 @@ var friendsArray = [
             5
         ]
     },
-]
-]
+];
+
+module.exports = friendsArray;
+
