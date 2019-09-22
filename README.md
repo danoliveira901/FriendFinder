@@ -5,12 +5,12 @@
 
 built with:
 
-HTML
-CSS
-Javascript
-Node.js
-Express.js
-AJAX
-Path
+* HTML
+* CSS
+* Javascript
+* Node.js
+* Express.js
+* AJAX
+* Path
 
 link: https://survey-meangirls-friendfinder.herokuapp.com/
